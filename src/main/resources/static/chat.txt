@@ -1,0 +1,4 @@
+18:23:29	 From  Dimitar Josifov   to   Sashko Klimkarov(Privately) : https://bootstrap-datepicker.readthedocs.io/en/latest/
+18:31:55	 From  Arti : ako moze 
+19:14:54	 From  Arti : ispravi vo LoadUserbyUsername greska ti e
+19:32:28	 From  Stole Dzikle : Pusti go na slack metodot
